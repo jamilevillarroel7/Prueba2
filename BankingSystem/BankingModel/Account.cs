@@ -9,22 +9,8 @@ namespace BankingModel
     public class Account
     {
         private string _name;
-
-        //public string getName()
-        //{
-        //    return _name;
-        //}
-
-        //public void setName( string name)
-        //{
-        //    _name = name;
-        //}
-
-        //public Account(string name)
-        //{
-        //    _name = name;
-        //}
-
+        private int _edad;
+        //Si lees esto es porque está sincronizado
         public string Name
         {
             get
@@ -38,11 +24,29 @@ namespace BankingModel
             }
         }
 
-        
+        public int Edad
+        {
+            get
+            {
+                return _edad;
+            }
+            set
+            {
+                _edad = value;
+            }
+        }
 
         public Account()
         {
 
         }
+
+        public Account(string name, int edad)
+        {
+            _name = name;
+            _edad = edad;
+        }
+
+
     }
 }

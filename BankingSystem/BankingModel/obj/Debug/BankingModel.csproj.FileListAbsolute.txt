@@ -1,0 +1,5 @@
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\BankingModel\bin\Debug\BankingModel.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\BankingModel\bin\Debug\BankingModel.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\BankingModel\obj\Debug\BankingModel.csprojResolveAssemblyReference.cache
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\BankingModel\obj\Debug\BankingModel.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\BankingModel\obj\Debug\BankingModel.pdb

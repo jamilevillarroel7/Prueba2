@@ -1,0 +1,8 @@
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\bin\Debug\AccountTest.exe
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\bin\Debug\AccountTest.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\bin\Debug\BankingModel.dll
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\bin\Debug\BankingModel.pdb
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\obj\Debug\AccountTest.exe
+C:\Users\viict\Documents\Visual Studio 2017\Projects\RepositorioDomingo\BankingSystem\AccountTest\obj\Debug\AccountTest.pdb
